@@ -1,0 +1,5 @@
+interface Measurable {
+
+    double getArea();
+
+}
